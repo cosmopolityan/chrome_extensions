@@ -3,5 +3,4 @@
 My personal Google Chrome Extensions
 
 1. [Image Downloader](https://github.com/cosmopolityan/image_downloader)
-
-
+2. [Currency Converter](https://github.com/cosmopolityan/currency_converter)
